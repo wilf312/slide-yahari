@@ -65,5 +65,5 @@ DOM操作をしているjQueryがデータを持っているとき、Reactのデ
 * jQueryとReactは共存できる
 
 ## おまけ
-(SPA化マイグレーション)[https://gist.github.com/wilf312/4149a1ee6158016cef104da32bf4fd60]
 
+[SPA化マイグレーション](https://gist.github.com/wilf312/4149a1ee6158016cef104da32bf4fd60)
